@@ -38,6 +38,7 @@
     ]
   },
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^x.x.x",
     "add": "^2.0.6",
     "babel-plugin-module-resolver": "^5.0.0",
     "customize-cra": "^1.0.0",
